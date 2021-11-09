@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Jordy Ferdian a hardworking and motivated computer science student from Bina Nusantara University.  
+I have a high interest in and am currently learning Front-End and Back-End web development. I also like to apply the obtained knowledge by building small projects.  
+Here is my portfolio a collection of projects i have made:  
+https://jordyf15.github.io/portfolio/
 
 <!--
 **jordyf15/jordyf15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
