@@ -1,6 +1,7 @@
-### Hi there, I'm Jordy Ferdian a hardworking and motivated computer science student from Bina Nusantara University.  
-I have a high interest in and am currently learning Front-End and Back-End web development. I also like to apply the obtained knowledge by building small projects.  
-Here is my portfolio a collection of projects i have made:  
+### Hi there, I'm Jordy Ferdian Chandra an Aspiring Full Stack Developer.
+I have high interest and enthusiasm for Front-End development, Back-End development, Cloud Computing, DevOps and Open-Source Software.  
+Currently looking for new challenges and opportunities to leverage my skills and contribute to innovative and exciting projects. Also looking for opportunities to start a career in Japan.
+Here is my portfolio website:  
 https://jordyf15.github.io/portfolio/
 
 <!--
