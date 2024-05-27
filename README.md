@@ -1,6 +1,7 @@
 ### Hi there, I'm Jordy Ferdian Chandra an Aspiring Full Stack Developer.
 I have high interest and enthusiasm for Front-End development, Back-End development, Cloud Computing, DevOps and Open-Source Software.  
-Currently looking for new challenges and opportunities to leverage my skills and contribute to innovative and exciting projects. Also looking for opportunities to start a career in Japan.
+Currently looking for new challenges and opportunities to leverage my skills and contribute to innovative and exciting projects.  
+Also looking for opportunities to start a career in Japan.  
 Here is my portfolio website:  
 https://jordyf15.github.io/portfolio/
 
